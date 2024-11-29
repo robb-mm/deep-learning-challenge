@@ -18,7 +18,7 @@ This analysis evaluates the best machine learning model combination, 'the best n
         * Some columns (features) were dropped.
         * More bins were created for rare values of ORGANIZATION, INCOME_AMT, and ASK_AMT.
         * Input layer's input dimension is adjusted when column(s) is(are) dropped or bin(s) is(are) created.
-        * Number of layers, number of neurons and different activations were used, with HyperParameter Tuning.
+        * Number of layers, number of neurons and different activation functions were used, with manual tuning and HyperParameter Tuning.
         * Number of epochs was changed, used 50 or 100.
 
 ## Summary
